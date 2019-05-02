@@ -1,7 +1,13 @@
 # Write your code here.
 
 def dictionary
-  shorter =
+  shorter = {
+    
+    
+    
+    
+    
+  }
 
 def word_substitulter(words)
   

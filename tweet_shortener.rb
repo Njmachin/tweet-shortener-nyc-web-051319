@@ -17,6 +17,11 @@ end
 
 def word_substitulter(words)
   words.split(" ").map do |word|
-    
+    if dictionary.keys.include?(word.downcase)
+        word = dictionary[word.downcase]
+      else
+        word
+    end
+  end.join(" ")
   
 end

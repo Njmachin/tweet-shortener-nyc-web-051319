@@ -1,5 +1,5 @@
 # Write your code here.
 
-def word_substitulter
+def word_substitulter(words)
   
 end

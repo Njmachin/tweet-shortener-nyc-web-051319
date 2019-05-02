@@ -23,5 +23,4 @@ def word_substitulter(words)
         word
     end
   end.join(" ")
-  
 end

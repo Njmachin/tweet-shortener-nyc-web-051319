@@ -16,6 +16,6 @@ def dictionary
 end
 
 def word_substitulter(words)
-  
+  words.split(" ")
   
 end
